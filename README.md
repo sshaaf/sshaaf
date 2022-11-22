@@ -9,7 +9,7 @@ Shaaf</a></h1>
 
 - 🌱 Always available for volunteer work
 
-- 🤝 I’m a cricket coach <a href="https://www.facebook.com/groups/3278646455737586" target="blank">Glostrup Cricket</a>
+- 🤝 I’m a cricket coach @ <a href="https://www.facebook.com/groups/3278646455737586" target="blank">Glostrup Cricket</a>
 
 - 📝 I regularly write articles on [https://shaaf.dev](https://shaaf.dev)
 
