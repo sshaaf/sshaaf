@@ -33,9 +33,9 @@ Shaaf</a></h1>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrade to Apache Commons Text 1.10 to Avoid New Exploit](https://www.infoq.com/news/2022/11/apache-commons-vulnerability)
-- [Processing images in Java with OpenCV and Quarkus](https://shaaf.dev/post/2022-04-11-processing-images-in-java-with-opencv-and-quarkus/)
-- [SQL cache stores and more in Data Grid 8.3](https://shaaf.dev/post/2022-02-24-sql-cache-stores-and-more-data-grid-83/)
+- [InfoQ](https://www.infoq.com/profile/Shaaf-Syed/)
+- [Red Hat Developers](https://developers.redhat.com/author/shaaf-syed)
+- [shaaf.dev](https://shaaf.dev)
 <!-- BLOG-POST-LIST:END -->
 
 ---
